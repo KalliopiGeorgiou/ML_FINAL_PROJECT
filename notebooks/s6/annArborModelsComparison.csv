@@ -1,9 +1,0 @@
-Models,annArborRegModel1Fit,annArborRegModel2Fit,annArborRegModel3Fit,annArborRegModel4Fit
-Comments,Linear,Linear,non Linear,non Linear
-Intercept,512.9794 0.0,300.4116 0.001,-4851.2 0.06,-4261.7 0.0
-Beds,x,225.81 0.001,131.336 0.042,132.2327 0.037
-Baths,x,89.266 0.119 *,36.5268 0.4595 *,x
-Sqft,0.552 0.0,0.209 0.028,-0.0943 0.464 *,x
-log(Sqft),x,x,825.5318 0.004,733.8615 0.0
-,,,,
-R2,0.704,0.809,0.851,0.846 - best

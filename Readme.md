@@ -32,7 +32,7 @@ code ~/.gitconfig
 ```
 [user]
 # Please adapt and uncomment the following lines:
-        name = <Name>
-        email = <github email>
-        username = <github username>
+        name = Kalliopi Georgiou
+        email = kalliopi.a.georgiou@gmail.com
+        username = KalliopiGeorgiou
 ```

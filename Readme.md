@@ -31,7 +31,6 @@ code ~/.gitconfig
 
 ```
 [user]
-# Please adapt and uncomment the following lines:
         name = Kalliopi Georgiou
         email = kalliopi.a.georgiou@gmail.com
         username = KalliopiGeorgiou

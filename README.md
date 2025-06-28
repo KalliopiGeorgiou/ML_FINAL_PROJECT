@@ -1,10 +1,10 @@
-# 🏦 Loan Approval Prediction using Logistic Regression
+## 🏦 Loan Approval Prediction using Logistic Regression
 
 This project aims to predict whether a loan application will be approved based on applicant information, using logistic regression models for binary classification.
 
 Developed as part of a machine learning course project using the Loan Approval Classification dataset from Kaggle.
 
-# 📌 Project Objectives
+## 📌 Project Objectives
 
 Predict loan approval (Loan_Status: Y/N → 1/0)
 
@@ -13,7 +13,7 @@ Compare performance across 3 logistic regression variations:
 2) Model 2 – Logistic Regression with 3 Key Features: A logistic regression model using 3 important features. This is a step toward better performance with low complexity.
 3) Model 3 – Logistic Regression with many numerical features: A full-featured logistic regression using many scaled numerical features.
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ├── Dataset for Final Project/
 │   └── Loan_Approval.csv      # Input Dataset
@@ -23,7 +23,7 @@ Compare performance across 3 logistic regression variations:
 ├── README.md
 └── .gitignore
 
-# 📊 Dataset Overview
+## 📊 Dataset Overview
 Source: Kaggle – Loan Approval Classification
 
 Records: 45000 applications and 14 variables
@@ -39,18 +39,15 @@ Numerical: person_income, person_emp_exp, loan_amnt, loan_int_rate, loan_percent
 🎯 Target Variable: Loan Status
 
 
-⚙️ Models and Techniques Used
+## ⚙️ Models and Techniques Used
+
 Logistic Regression 
-
 Preprocessing:
-
 Handling missing values
-
 Encoding categorical variables
-
 Feature scaling
 
-Evaluation Metrics:
+## Evaluation Metrics:
 
 Accuracy
 

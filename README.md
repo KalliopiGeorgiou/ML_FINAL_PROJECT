@@ -13,22 +13,10 @@ Compare performance across 3 logistic regression variations:
 2) Model 2 – Logistic Regression with 3 Key Features: A logistic regression model using 3 important features. This is a step toward better performance with low complexity.
 3) Model 3 – Logistic Regression with many numerical features: A full-featured logistic regression using many scaled numerical features.
 
-## 📁 Project Structure
-
-
-```text
-├── Dataset for Final Project/
-│   └── Loan_Approval.csv      # Input Dataset
-├── notebooks/
-│   ├── LoanApprovalFinalProject.ipynb     
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
-
 ## 📊 Dataset Overview
 Source: Kaggle – Loan Approval Classification
+
+Link: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data?resource=download
 
 Records: 45000 applications and 14 variables
 

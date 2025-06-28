@@ -15,6 +15,7 @@ Compare performance across 3 logistic regression variations:
 
 ## 📁 Project Structure
 
+```text
 ├── Dataset for Final Project/
 │   └── Loan_Approval.csv      # Input Dataset
 ├── notebooks/
@@ -22,6 +23,7 @@ Compare performance across 3 logistic regression variations:
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 ## 📊 Dataset Overview
 Source: Kaggle – Loan Approval Classification
@@ -39,13 +41,12 @@ Numerical: person_income, person_emp_exp, loan_amnt, loan_int_rate, loan_percent
 🎯 Target Variable: Loan Status
 
 
-## ⚙️ Models and Techniques Used
-
-Logistic Regression 
+## ⚙️ Techniques Used
+ 
 Preprocessing:
-Handling missing values
-Encoding categorical variables
-Feature scaling
+- Handling missing values
+- Encoding categorical variables
+- Feature scaling
 
 ## Evaluation Metrics:
 

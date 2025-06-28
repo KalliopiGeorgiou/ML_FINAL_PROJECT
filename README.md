@@ -15,6 +15,7 @@ Compare performance across 3 logistic regression variations:
 
 ## 📁 Project Structure
 
+
 ```text
 ├── Dataset for Final Project/
 │   └── Loan_Approval.csv      # Input Dataset
@@ -23,6 +24,7 @@ Compare performance across 3 logistic regression variations:
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 
 ## 📊 Dataset Overview
